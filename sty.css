@@ -1,0 +1,148 @@
+/* CSS Document */
+.header{
+height:200px;
+width:1450px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.h1{
+height:150px;
+width:1000px;
+}
+
+.name{
+height:150px;
+width:1450px;
+float:none;
+background-color:#F1DABB;
+}
+
+.n{
+position:relative;
+top:45px;
+left:140px;
+font-family:"Times New Roman", Times, serif;
+font-size:60px;
+color: black;}
+.m{
+height:50px;
+width:1452px;
+float:left;
+background-color:black;
+}
+
+.m ul li{
+display: inline;
+padding:70px;
+}
+.m ul li a{
+text-decoration: none;
+font-size:21px;
+color:#FFFFFF;
+}
+
+.footer{
+height:50px;
+width:1450px;
+margin-left:auto;
+margin-right: auto;
+background-color:black;
+}
+.copy{
+height:50px;
+width:1450px;
+float:left;
+font-family:"Times New Roman", Times, serif;
+font-size: 30px;
+color:white;
+text-align:center;
+background-color:black;
+}
+.home{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-color:#FFDAB9;
+border:black solid;
+position:relative;
+}
+.h{
+height:100px;
+width:1000px;
+float:left;
+text-align:justify;
+text-decoration:underline;
+position:relative;
+}
+.content{
+height:200px;
+width:1000px;
+float:left;
+font-family:"Courier New", Courier, monospace;
+font-size:24px;
+color: #FF0000;
+position:relative;
+position:relative;
+text-align:justify;
+}
+.content a{
+text-decoration:none;
+font-family:Verdana;
+color:#CC3399;
+position:relative;
+}
+.image{
+height:200px;
+width:1000px;
+position:relative;
+float:left;}
+.a{
+border:#CC0000 dashed;
+border-radius:10px;
+position:relative;}
+.about{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-image:url(../images/3.jpg);
+background-position:center;
+background-size:cover;
+position:relative;
+border: #009933 solid;
+}
+.subject{
+height:300px;
+width:700px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.map{
+float:left;}
+#login{
+height:400px;
+width:357px;
+border: black solid;
+background-color:#FFFFFF;
+}
+
+.k{
+font-size:25px;
+}
+
+.q{
+font-size:40px;
+}
+
+.map{
+float:left;}
+#signup{
+height:430px;
+width:357px;
+border: black solid;
+background-color:#FFFFFF;
+}
+
